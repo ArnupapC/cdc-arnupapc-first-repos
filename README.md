@@ -1,2 +1,2 @@
-# cdc-arnupapc-first-repos
+# ArnupapC
 create repo for workshop
